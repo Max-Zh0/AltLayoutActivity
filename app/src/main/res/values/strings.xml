@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">FancyScreen</string>
+    <string name="name">Michelle Townsend</string>
+    <string name="email">mt@ourcompany.com</string>
+    <string name="ext">2253</string>
+    <string name="department">Design</string>
+    <string name="supervisor">Gail Davers</string>
+    <string-array name="staff">
+        <item>Kate Sacloff</item>
+        <item>Andrew Klein</item>
+        <item>Maria Ortega</item>
+        <item>Brent Stevenson</item>
+        <item>Daniel Cho</item>
+        <item>Jorge Gomez</item>
+    </string-array>
+
 </resources>

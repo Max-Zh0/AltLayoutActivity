@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Красивый Дисплей</string>
+    <string name="name">Мишель Таунсенд</string>
+    <string name="email">mt@ourcompany.com</string>
+    <string name="ext">2253</string>
+    <string name="department">Дизайн</string>
+    <string name="supervisor">Гейл Дэйверс</string>
+    <string-array name="staff">
+        <item>Кейт Саклофф</item>
+        <item>Мария Ортега</item>
+        <item>Эндрю Кляйн</item>
+        <item>Брент Стивенсон</item>
+        <item>Дэниэл Чо</item>
+        <item>Хорхе Гомез</item>
+    </string-array>
+
+</resources>
