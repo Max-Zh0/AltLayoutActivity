@@ -5,6 +5,12 @@
     <string name="ext">2253</string>
     <string name="department">Design</string>
     <string name="supervisor">Gail Davers</string>
+    <string name="name_field">Name</string>
+    <string name="email_field">E-mail</string>
+    <string name="ext_field">Extension</string>
+    <string name="dept_field">Department</string>
+    <string name="sup_field">Supervisor</string>
+    <string name="dir_reports_field">Direct Reports</string>
     <string-array name="staff">
         <item>Kate Sacloff</item>
         <item>Andrew Klein</item>

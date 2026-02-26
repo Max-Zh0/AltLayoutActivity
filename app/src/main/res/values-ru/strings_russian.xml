@@ -5,6 +5,12 @@
     <string name="ext">2253</string>
     <string name="department">Дизайн</string>
     <string name="supervisor">Гейл Дэйверс</string>
+    <string name="name_field">Имя</string>
+    <string name="email_field">E-mail</string>
+    <string name="ext_field">Код</string>
+    <string name="dept_field">Подразделение</string>
+    <string name="sup_field">Руководитель</string>
+    <string name="dir_reports_field">Отчеты</string>
     <string-array name="staff">
         <item>Кейт Саклофф</item>
         <item>Мария Ортега</item>
